@@ -11,7 +11,7 @@ This project automates the creation of sales reports from Excel data using Pytho
 ## Technologies
 - Python
 - Pandas
-- OpenPyXL
+- OpenPyxl
 - Excel
 
 ## How to use
